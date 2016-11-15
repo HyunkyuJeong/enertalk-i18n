@@ -71,7 +71,7 @@
 	"INTRO_POPUP_LOGIN_FAIL": "Sign in failed",
 	"INTRO_POPUP_LOGIN_FAIL_DESC": "Invalid username or password",
 	"INTRO_POPUP_LOGIN_FAIL_DESC2": "Sign in failed.<br>Redirecting to home screen.",
-	"INTRO_POPUP_NETWORK": "Error",
+	"INTRO_POPUP_NETWORK": "Network Error",
 	"INTRO_POPUP_NETWORK_OFFLINE": "Wi-Fi signal is unstable. Please try again.",
 	"INTRO_POPUP_TOKEN_EXPIRE": "Access token expired",
 	"INTRO_POPUP_TOKEN_EXPIRE_DESC": "To authorize your app to access the account, please sign in.",

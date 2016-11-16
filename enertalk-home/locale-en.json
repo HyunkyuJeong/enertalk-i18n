@@ -796,6 +796,8 @@
 	"TIMELINE_CHART_LABEL_HOURS": "hours",
 	"TIMELINE_CHART_LABEL_POINT": "point",
 	"TIMELINE_CHART_LABEL_POINTS": "points",
+	"TIMELINE_NO_PIN_TITLE": "No Pinned Message",
+	"TIMELINE_NO_PIN_DESC": "Pin your favorite messages and re-visit to read whenever you want!",
 	"FAMILY_CARE_TITLE_INTRO": "Family Share",
 	"FAMILY_CARE_TITLE_INVITE_CARE": "Request to monitor EnerTalk",
 	"FAMILY_CARE_TITLE_INVITE_SHARE": "Request to share EnerTalk",

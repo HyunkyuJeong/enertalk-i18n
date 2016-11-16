@@ -796,6 +796,8 @@
 	"TIMELINE_CHART_LABEL_HOURS": "시간",
 	"TIMELINE_CHART_LABEL_POINT": "점",
 	"TIMELINE_CHART_LABEL_POINTS": "점",
+	"TIMELINE_NO_PIN_TITLE": "핀(Pin) 메시지가 없습니다.",
+	"TIMELINE_NO_PIN_DESC": "다시보고 싶은 메시지를 만나면<br>핀(Pin) 아이콘을 눌러주세요! :)",
 	"FAMILY_CARE_TITLE_INTRO": "가족 케어",
 	"FAMILY_CARE_TITLE_INVITE_CARE": "케어 하기 신청",
 	"FAMILY_CARE_TITLE_INVITE_SHARE": "케어 받기 신청",

@@ -356,7 +356,7 @@
 	"INSTALL_TEXT_WIFI_CONNECTING": "Connecting ...",
 	"INSTALL_TEXT_COMPLETE": "Your device is now installed and complete the setup.",
 	"INSTALL_TEXT_NOTICE": "Notice",
-	"INSTALL_TEXT_CONNECT_SOCKET_FAIL": "Failed to connect socket",
+	"INSTALL_TEXT_CONNECT_SOCKET_FAIL": "Failed to connect to socket",
 	"INSTALL_TEXT_CONNECT_SOCKET_DESC": "The socket connection seems unstable. To reset the device, press the left side of the device RST button with a paper clip. And please try again.",
 	"INSTALL_TEXT_REGISTER_DOING": "Registration Proceeding...",
 	"INSTALL_TEXT_REGISTER_FAIL": "Device Registration Failed",

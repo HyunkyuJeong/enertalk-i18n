@@ -677,6 +677,8 @@
 	"CAMPAIGN_TEXT_PARTICIPANTS_COMPLETE": "총 {{count}}가구가 성공했어요!",
 	"CAMPAIGN_TEXT_PARTICIPANTS_INCOMPLETE": "지금까지 {{count}}가구가 성공했어요!",
 	"CAMPAIGN_TEXT_ENERGY_HERO": "(본 캠페인은 에너지 히어로와 함께 하였으며<br>\n기부금 영수증 발급 대상에서 제외됩니다.)",
+	"CAMPAIGN_TEXT_RESULT_DESC": "기부에 참여해 주셔서 감사합니다.",
+	"CAMPAIGN_TEXT_RESULT_LINK": "기부 스토리 보러 가기",
 	"NOW_TEXT_TITLE": "NOW",
 	"TODAY_TEXT_TITLE": "TODAY",
 	"TIPS_MENU_NOW": "NOW",
